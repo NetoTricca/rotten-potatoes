@@ -27,6 +27,6 @@ jobs:
           file: ./src/Dcokerfile
           push: true
           tags: 
-            netotricca/rotten-potatoes:latest
-            netotricca/rotten-potatoes:${{ github.run_number }}
+            NetoTricca/rotten-potatoes:latest
+            NetoTricca/rotten-potatoes:${{ github.run_number }}
             
